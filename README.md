@@ -1,19 +1,41 @@
-# Lloguer de vehicles Prisitia
+<h1 align="center">Hola 👋, soc en <a href="https://github.com/marccazorlanavarro" target="blank">
+Marc Cazorla Navarro</a></h1>
+<h3 align="center">Alumne de 2DAM a l'Institut Nicolau Copèrnic 🇪🇸</h3>
 
-Aplicació web que fa de **ERP i CRM** per a una empresa de reserva de vehicles. Es tracta d'un producte mínim viable (PMV) que centralitza en un sol lloc la gestió de clients, vehicles i reserves, i substitueix el paper i les trucades per un sistema on tot queda registrat.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marccazorlanavarro&label=Visites%20al%20perfil&color=0e75b6&style=flat" alt="marccazorlanavarro" /> </p>
 
-## Què permet fer
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- **Els clients** es registren a la web, esperen que un administrador validi el seu registre i, un cop aprovats, consulten els vehicles disponibles per unes dates i fan la reserva. El vehicle queda bloquejat per aquell període i el client rep un codi de reserva.
-- **Els agents** gestionen clients, vehicles i reserves. Quan arriba el client, lliuren el vehicle i en documenten l'estat amb fotografies; quan el retorna, comproven si hi ha desperfectes i decideixen si es reté la fiança.
-- **L'administrador** té accés total, valida els registres de nous clients, gestiona els agents i consulta els informes de reserves per client.
+- 🔭 Actualment estic treballant en el projecte **Lloguer de Vehicles** (`lloguer_vehicles`)
 
-## Com funciona
+- 🌱 Estic aprofundint en arquitectures Backend empresarials amb **Spring Boot i Java**
 
-L'aplicació és accessible des d'un navegador, pot ser utilitzada per diversos usuaris alhora i guarda les dades en dues bases de dades: una de relacional (**MySQL**) per a la informació estructurada, i una de no relacional (**MongoDB**) per a l'històric de reserves.
+- 💻 Estic cursant **2n de Desenvolupament d'Aplicacions Multiplataforma (2DAM)** a l'*Institut Nicolau Copèrnic*
 
+- 💬 Pregunta'm sobre **Java, Spring Boot, MySQL, MongoDB i Thymeleaf**
 
+- 📫 Com contactar amb mi: **marccazorlanavarro@gmail.com**
 
-## Context
+- 📄 Dona un cop d'ull als meus repositoris i projectes aquí al meu GitHub!
 
-Projecte de 2DAM (matí) de l'Institut Nicolau Copèrnic, curs 2026-27.
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connecta amb mi 🤝 </h3>
+
+<p align="center">
+
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/marccazorlanavarro">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+      </div>
+
+</p>
+
+### 🚀 Projecte Destacat: Lloguer de Vehicles
+
+*   **[Repositori Lloguer de Vehicles](https://github.com/marccazorlanavarro/lloguer_vehicles)**: Aplicació web de tipus ERP / CRM desenvolupada en Java amb **Spring Boot** per a la gestió integral d'una empresa de lloguer de vehicles. Inclou control d'accés per rols amb Spring Security, càlcul dinàmic de tarifes, gestió del cicle de vida de les reserves (creació, anul·lació i lliurament) i generació d'informes històrics mitjançant **MongoDB (RF91)** combinat amb **MySQL**.
+
+---
+
+Crèdits: [Marc Cazorla Navarro](https://github.com/marccazorlanavarro)
