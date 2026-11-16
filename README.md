@@ -34,7 +34,7 @@ Marc Cazorla Navarro</a></h1>
 
 ### 🚀 Projecte Destacat: Lloguer de Vehicles
 
-*   **[Repositori Lloguer de Vehicles](https://github.com/marccazorlanavarro/lloguer_vehicles)**: Aplicació web de tipus ERP / CRM desenvolupada en Java amb **Spring Boot** per a la gestió integral d'una empresa de lloguer de vehicles. Inclou control d'accés per rols amb Spring Security, càlcul dinàmic de tarifes, gestió del cicle de vida de les reserves (creació, anul·lació i lliurament) i generació d'informes històrics mitjançant **MongoDB (RF91)** combinat amb **MySQL**.
+*   **[Repositori Lloguer de Vehicles](https://github.com/marccazorlanavarro/NothinganPrisa)**: Aplicació web de tipus ERP / CRM desenvolupada en Java amb **Spring Boot** per a la gestió integral d'una empresa de lloguer de vehicles. Inclou control d'accés per rols amb Spring Security, càlcul dinàmic de tarifes, gestió del cicle de vida de les reserves (creació, anul·lació i lliurament) i generació d'informes històrics mitjançant **MongoDB (RF91)** combinat amb **MySQL**.
 
 ---
 
